@@ -1,0 +1,12 @@
+C:\Users\raphael.martins\Desktop\TesteDTI\TesteDTI.Modelos\bin\Release\netstandard2.0\TesteDTI.Modelos.deps.json
+C:\Users\raphael.martins\Desktop\TesteDTI\TesteDTI.Modelos\bin\Release\netstandard2.0\TesteDTI.Modelos.dll
+C:\Users\raphael.martins\Desktop\TesteDTI\TesteDTI.Modelos\bin\Release\netstandard2.0\TesteDTI.Modelos.pdb
+C:\Users\raphael.martins\Desktop\TesteDTI\TesteDTI.Modelos\bin\Release\netstandard2.0\TesteDTI.Enumeradores.dll
+C:\Users\raphael.martins\Desktop\TesteDTI\TesteDTI.Modelos\bin\Release\netstandard2.0\TesteDTI.Enumeradores.pdb
+C:\Users\raphael.martins\Desktop\TesteDTI\TesteDTI.Modelos\obj\Release\netstandard2.0\TesteDTI.Modelos.csprojAssemblyReference.cache
+C:\Users\raphael.martins\Desktop\TesteDTI\TesteDTI.Modelos\obj\Release\netstandard2.0\TesteDTI.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\raphael.martins\Desktop\TesteDTI\TesteDTI.Modelos\obj\Release\netstandard2.0\TesteDTI.Modelos.AssemblyInfoInputs.cache
+C:\Users\raphael.martins\Desktop\TesteDTI\TesteDTI.Modelos\obj\Release\netstandard2.0\TesteDTI.Modelos.AssemblyInfo.cs
+C:\Users\raphael.martins\Desktop\TesteDTI\TesteDTI.Modelos\obj\Release\netstandard2.0\TesteDTI.Modelos.csproj.CopyComplete
+C:\Users\raphael.martins\Desktop\TesteDTI\TesteDTI.Modelos\obj\Release\netstandard2.0\TesteDTI.Modelos.dll
+C:\Users\raphael.martins\Desktop\TesteDTI\TesteDTI.Modelos\obj\Release\netstandard2.0\TesteDTI.Modelos.pdb

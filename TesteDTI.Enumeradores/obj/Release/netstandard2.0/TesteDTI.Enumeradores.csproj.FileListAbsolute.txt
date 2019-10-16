@@ -1,0 +1,9 @@
+C:\Users\raphael.martins\Desktop\TesteDTI\TesteDTI.Enumeradores\bin\Release\netstandard2.0\TesteDTI.Enumeradores.deps.json
+C:\Users\raphael.martins\Desktop\TesteDTI\TesteDTI.Enumeradores\bin\Release\netstandard2.0\TesteDTI.Enumeradores.dll
+C:\Users\raphael.martins\Desktop\TesteDTI\TesteDTI.Enumeradores\bin\Release\netstandard2.0\TesteDTI.Enumeradores.pdb
+C:\Users\raphael.martins\Desktop\TesteDTI\TesteDTI.Enumeradores\obj\Release\netstandard2.0\TesteDTI.Enumeradores.csprojAssemblyReference.cache
+C:\Users\raphael.martins\Desktop\TesteDTI\TesteDTI.Enumeradores\obj\Release\netstandard2.0\TesteDTI.Enumeradores.csproj.CoreCompileInputs.cache
+C:\Users\raphael.martins\Desktop\TesteDTI\TesteDTI.Enumeradores\obj\Release\netstandard2.0\TesteDTI.Enumeradores.AssemblyInfoInputs.cache
+C:\Users\raphael.martins\Desktop\TesteDTI\TesteDTI.Enumeradores\obj\Release\netstandard2.0\TesteDTI.Enumeradores.AssemblyInfo.cs
+C:\Users\raphael.martins\Desktop\TesteDTI\TesteDTI.Enumeradores\obj\Release\netstandard2.0\TesteDTI.Enumeradores.dll
+C:\Users\raphael.martins\Desktop\TesteDTI\TesteDTI.Enumeradores\obj\Release\netstandard2.0\TesteDTI.Enumeradores.pdb

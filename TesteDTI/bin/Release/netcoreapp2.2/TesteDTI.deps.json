@@ -1,0 +1,75 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "TesteDTI/1.0.0": {
+        "dependencies": {
+          "TesteDTI.Comum": "1.0.0",
+          "TesteDTI.Modelos": "1.0.0",
+          "TesteDTI.Servicos": "1.0.0"
+        },
+        "runtime": {
+          "TesteDTI.dll": {}
+        }
+      },
+      "TesteDTI.Comum/1.0.0": {
+        "runtime": {
+          "TesteDTI.Comum.dll": {}
+        }
+      },
+      "TesteDTI.Enumeradores/1.0.0": {
+        "runtime": {
+          "TesteDTI.Enumeradores.dll": {}
+        }
+      },
+      "TesteDTI.Modelos/1.0.0": {
+        "dependencies": {
+          "TesteDTI.Enumeradores": "1.0.0"
+        },
+        "runtime": {
+          "TesteDTI.Modelos.dll": {}
+        }
+      },
+      "TesteDTI.Servicos/1.0.0": {
+        "dependencies": {
+          "TesteDTI.Comum": "1.0.0",
+          "TesteDTI.Modelos": "1.0.0"
+        },
+        "runtime": {
+          "TesteDTI.Servicos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TesteDTI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TesteDTI.Comum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TesteDTI.Enumeradores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TesteDTI.Modelos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TesteDTI.Servicos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
